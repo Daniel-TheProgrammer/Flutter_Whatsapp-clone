@@ -1,5 +1,5 @@
 //Create by Daniel theProgrammer the Second
-//Keep up the good work because 
+//Keep up the good 
 
 
 // import 'package:flutter/material.dart';
