@@ -36,3 +36,6 @@ void main() {
     });
   });
 }
+
+{
+  expect(battery level.contains(;#
